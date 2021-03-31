@@ -40,6 +40,10 @@
     color : white;
 }
 
+li {
+    transition: ease 0.5s all;
+}
+
 li:hover {
     opacity: 0.6;
   }
