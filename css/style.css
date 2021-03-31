@@ -37,4 +37,9 @@
 
 .red {
     background-color : red;
+    color : white;
 }
+
+li:hover {
+    opacity: 0.6;
+  }
